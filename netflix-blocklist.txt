@@ -1,0 +1,64 @@
+# Netflix Blocklist for Pi-hole
+# ============================
+# Complete blocklist for Netflix - Blocks streaming, apps, website, and telemetry
+# Maintained by: [Seu nome]
+# Last updated: 2026-06-10
+#
+# -- Main Netflix domains --
+netflix.com
+www.netflix.com
+netflix.net
+www.netflix.net
+
+# -- Netflix streaming and API domains --
+nflximg.com
+www.nflximg.com
+nflximg.net
+www.nflximg.net
+nflxso.net
+www.nflxso.net
+nflxvideo.net
+www.nflxvideo.net
+nflxext.com
+www.nflxext.com
+nflxsearch.net
+www.nflxsearch.net
+nflxmulti.net
+www.nflxmulti.net
+nflxpl.com
+www.nflxpl.com
+uiboot.netflix.com
+
+# -- Netflix CDN and service endpoints --
+api-global.netflix.com
+api-www.netflix.com
+ios.prod.ftl.netflix.com
+android.prod.ftl.netflix.com
+help.netflix.com
+movies.netflix.com
+secure.netflix.com
+signup.netflix.com
+assets.nflxext.com
+cds-api.netflix.com
+nrdp.prod.cloud.netflix.com
+nrdp-ipv6.prod.ftl.netflix.com
+cdn-0.nflximg.com
+occ-0-3329-299.1.nflxso.net
+
+# -- Netflix telemetry and tracking --
+ichnaea.netflix.com
+logging.netflix.com
+metrics.netflix.com
+
+# -- DOMÍNIOS DESCOBERTOS NO QUERY LOG (2026-06-10) --
+# Android 13 specific domains
+android13.push.prod.netflix.com
+android13.ws.prod.cloud.netflix.com
+android13.prod.ftl.netflix.com
+android13.prod.cloud.netflix.com
+android13.logs.netflix.com
+android13.appboot.netflix.com
+android.prod.cloud.netflix.com
+
+# Additional CDN endpoint
+occ-0-6133-3852.1.nflxso.net
