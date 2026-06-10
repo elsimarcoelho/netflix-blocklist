@@ -62,3 +62,5 @@ android.prod.cloud.netflix.com
 
 # Additional CDN endpoint
 occ-0-6133-3852.1.nflxso.net
+ipv4-c001-ios001-zoomnet-isp.1.oca.nflxvideo.net
+ipv4-c032-for002-ix.1.oca.nflxvideo.net
