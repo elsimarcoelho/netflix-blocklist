@@ -9,6 +9,7 @@ netflix.com
 www.netflix.com
 netflix.net
 www.netflix.net
+www.netflix.com/br/
 
 # -- Netflix streaming and API domains --
 nflximg.com
