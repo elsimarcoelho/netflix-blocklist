@@ -61,6 +61,7 @@ android13.appboot.netflix.com
 android.prod.cloud.netflix.com
 ipv4-c041-for002-ix.1.oca.nflxvideo.net
 api.ad.intl.xiaomi.com
+ipv4-c063-for002-ix.1.oca.nflxvideo.net
 
 # Additional CDN endpoint
 occ-0-6133-3852.1.nflxso.net
